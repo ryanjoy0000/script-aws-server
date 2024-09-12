@@ -78,3 +78,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Open a pull request.
 
+## License
+GNU GENERAL PUBLIC LICENSE v3
+
